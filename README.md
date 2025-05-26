@@ -2,8 +2,9 @@
 
 **Security Analyst | Cybersecurity Engineer | IoT Security Researcher**  
 📍 Depok, Indonesia  
-📧 mail.dimaswahyudi@gmail.com · 📧 dimas.wahyudi@nindyakarya.co.id  
-🌐 [LinkedIn](https://www.linkedin.com/in/dimaswahyudi/) · 🧑‍💻 GitHub: [dimaswahyudi7](https://github.com/dimaswahyudi7)
+📧 mail.dimaswahyudi@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/dimaswahyudi/)
+🧑‍💻 GitHub: [dimaswahyudi7](https://github.com/dimaswahyudi7)
 
 ---
 
